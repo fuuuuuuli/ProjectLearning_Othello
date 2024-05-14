@@ -1,0 +1,2 @@
+# ProjectLearning_Othello
+オセロ関係のレポジトリです
